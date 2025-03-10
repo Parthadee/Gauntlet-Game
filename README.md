@@ -1,4 +1,4 @@
-# My Personal Portfolio
+# Gauntlet Game
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Parthadee/Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/Parthadee/Portfolio?style=social)
